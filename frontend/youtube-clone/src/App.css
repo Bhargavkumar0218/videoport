@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.video-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+  padding: 20px;
+}
